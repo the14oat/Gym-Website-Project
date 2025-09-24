@@ -12,17 +12,17 @@ const benefits: Array<BenefitType> = [
     {
         icon: <HomeModernIcon className="h-6 w-6"/>,
         title: "State of the Art Facilities",
-        description: "STATE OF THE ART FASCILITIES WAHOOO"
+        description: "Train in a modern space equipped with the latest machines, cutting-edge technology, and everything you need to maximize your workout. Our clean, spacious environment is designed to keep you motivated and inspired every time you walk in."
     },
     {
         icon: <UserGroupIcon className="h-6 w-6"/>,
         title: "Hundreds of Diverse Classes",
-        description: "omg so many classes"
+        description: "From high-intensity cardio to relaxing yoga, our wide range of classes ensures there’s something for every fitness level and goal. You’ll never get bored with fresh, exciting options that keep your routine fun and effective."
     },
     {
         icon: <AcademicCapIcon className="h-6 w-6"/>,
         title: "Expert and Pro Trainers",
-        description: "they so buff"
+        description: "Get personalized guidance from certified trainers who know how to help you reach your full potential. Their experience and passion for fitness will keep you challenged, supported, and on track to see real results."
     },
 ];
 const container = {
